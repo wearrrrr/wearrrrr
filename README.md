@@ -1,16 +1,14 @@
-### Hi there 👋
+## Welcome to my github profile!
 
-<!--
-**wearrrrr/wearrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is wearr and I am a fullstack web developer that specifies in web proxies! ✨
 
-Here are some ideas to get you started:
+## Technologies I use
+[![](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,vscode,nginx,github,&theme=light)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects I'm currently working on!
+
+[HaiKei](https://github.com/wearrrrr/HaiKei) / [haikei.xyz](https://haikei.xyz)
+
+[Alu's Unblocker](https://github.com/wearrrrr/AlusUnblocker)
+
+NebulaVPN (No link currently!)
