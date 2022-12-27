@@ -5,6 +5,8 @@ My name is wearr and I am a 15 year old fullstack web developer that specifies i
 ## Technologies I use
 [![](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,vscode,nginx,github,&theme=light)](https://skillicons.dev)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wearrrrr)
+
 ### Projects I'm currently working on!
 
 [HaiKei](https://github.com/wearrrrr/HaiKei) / [haikei.xyz](https://haikei.xyz)
