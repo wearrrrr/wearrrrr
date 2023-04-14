@@ -9,7 +9,7 @@ My name is wearr and I am a 16 year old fullstack web developer that specifies i
 
 ### Projects I'm currently working on!
 
-[HaiKei](https://github.com/wearrrrr/HaiKei) / [haikei.xyz](https://haikei.xyz)
+[HaiKei](https://github.com/wearrrrr/HaiKei)
 
 [Alu's Unblocker](https://github.com/wearrrrr/AlusUnblocker)
 
