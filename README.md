@@ -3,7 +3,7 @@
 My name is wearr and I am a 16 year old fullstack web developer that specifies in web proxies! ✨
 
 ## Technologies I use
-[![](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,vscode,nginx,github,&theme=light)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,vscode,nginx,github,&theme=light)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wearrrrr)
 
