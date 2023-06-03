@@ -13,4 +13,6 @@ My name is wearr and I am a 16 year old fullstack web developer that specifies i
 
 [Alu's Unblocker](https://github.com/wearrrrr/AlusUnblocker)
 
+[9Launcher](https://github.com/wearrrrr/9Launcher)
+
 XenOS (No link currently!)
