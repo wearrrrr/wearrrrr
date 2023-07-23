@@ -7,6 +7,8 @@ My name is wearr and I am a 16 year old fullstack web developer that specifies i
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wearrrrr)
 
+Visit https://wearr.dev for more detailed information!
+
 ### Projects I'm currently working on!
 
 [HaiKei](https://github.com/wearrrrr/HaiKei)
