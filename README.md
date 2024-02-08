@@ -13,8 +13,6 @@ Visit https://wearr.dev for more detailed information!
 
 [HaiKei](https://github.com/wearrrrr/HaiKei)
 
-[Alu's Unblocker](https://github.com/wearrrrr/AlusUnblocker)
+[Alu](https://github.com/wearrrrr/Alu)
 
 [9Launcher](https://github.com/wearrrrr/9Launcher)
-
-XenOS (No link currently!)
