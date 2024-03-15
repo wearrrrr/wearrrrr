@@ -1,17 +1,26 @@
-## Welcome to my github profile!
+# 👋 Hello there!
 
-My name is wearr and I am a 16 year old fullstack web developer that specifies in web proxies! ✨
+My name is wearr, I am a 16 year old web developer from the USA!
 
-## Technologies I use
-![](https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,vscode,nginx,github,&theme=light)
+## 💬 Hobbies
+- Touhou Project and ULTRAKILL.
+- Casual Reverse Engineering
+- Frontend and Backend apps
+- Drawing
+
+## Contact
+- Discord: `wearr.`
+- Email: `contact@wearr.dev`
+
+
+## 🖥️ Technology I use
+![](https://skillicons.dev/icons?i=html,css,js,astro,typescript,nodejs,vscode,nginx,github,discord,&theme=light)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wearrrrr)
 
-Visit https://wearr.dev for more detailed information!
+## 🚧 Projects I'm currently working on!
 
-### Projects I'm currently working on!
-
-[HaiKei](https://github.com/wearrrrr/HaiKei)
+[EoSDecomp](https://github.com/happyhavoc/th06)
 
 [Alu](https://github.com/wearrrrr/Alu)
 
