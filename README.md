@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-My name is wearr, I am a 16 year old web developer from the USA!
+My name is wearr, I am a 17 year old web developer from the USA!
 
 ## 💬 Hobbies
 - Touhou Project and ULTRAKILL.
