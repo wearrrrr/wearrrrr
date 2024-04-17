@@ -1,6 +1,8 @@
 # 👋 Hello there!
 
 My name is wearr, I am a 17 year old web developer from the USA!
+<br><br>
+![](https://komarev.com/ghpvc/?username=wearrrrr&color=red&abbreviated=true)
 
 ## 💬 Hobbies
 - Touhou Project and ULTRAKILL.
