@@ -22,7 +22,6 @@ My name is wearr, I am a 17 year old web developer from the USA!
 
 ## 🚧 Projects I'm currently working on!
 
-```math
 [EoSDecomp](https://github.com/happyhavoc/th06)
 
 [Alu](https://github.com/wearrrrr/Alu)
