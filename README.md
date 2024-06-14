@@ -32,6 +32,3 @@ My name is wearr, I am a 17 year old web developer from the USA!
 
 Thanks for stoppping by! <br>
 ![Flan Donut :D](https://github.com/wearrrrr/wearrrrr/assets/99224452/e3a28e9a-6343-4a35-9218-3e017a43c53d)
-
-```math
-{&#x5C;&#117;&#110;&#105;&#99;&#111;&#100;&#101;[; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-repeat: no-repeat !important; filter: brightness(0.3); background: url('https://raw.githubusercontent.com/wearrrrr/wearrrrr/main/wallpaper.jpg');]{x0000}}
