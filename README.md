@@ -1,6 +1,6 @@
 # 👋 Hello there!
 
-My name is wearr, I am a 17 year old web developer from the USA!
+My name is wearr, I am a 18 year old web developer from the USA!
 <br><br>
 ![](https://komarev.com/ghpvc/?username=wearrrrr&color=red&abbreviated=true)
 
