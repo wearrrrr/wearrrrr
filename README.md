@@ -15,7 +15,7 @@ My name is wearr, I am a 18 year old web developer from the USA!
 
 
 ## 🖥️ Technology I use
-![](https://skillicons.dev/icons?i=html,css,js,astro,typescript,nodejs,vscode,nginx,github,discord,&theme=light)
+![](https://skillicons.dev/icons?i=cpp,c,astro,typescript,nodejs,html,css,js)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=wearrrrr&show_icons=true&theme=catppuccin_mocha)
 
