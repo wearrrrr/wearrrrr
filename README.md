@@ -1,4 +1,4 @@
-# Hello there!
+# Hi! I'm wearr.
 
 Low level enthusiast and part time web developer
 <br><br>
