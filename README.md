@@ -1,10 +1,10 @@
-# 👋 Hello there!
+# Hello there!
 
-My name is wearr, I am a 18 year old web developer from the USA!
+Low level enthusiast and part time web developer
 <br><br>
-![](https://komarev.com/ghpvc/?username=wearrrrr&color=red&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=wearrrrr&color=blue&abbreviated=true)
 
-## 💬 Hobbies
+## Hobbies
 - Casual Reverse Engineering
 - Frontend and Backend apps
 - Touhou Project
@@ -20,7 +20,7 @@ My name is wearr, I am a 18 year old web developer from the USA!
 ![Stats](https://github-readme-stats.vercel.app/api?username=wearrrrr&show_icons=true&theme=catppuccin_mocha)
 
 ## Notable projects
-
+[AnuraOS](https://github.com/MercuryWorkshop/anuraOS)
 
 ## 🚧 Projects I'm currently working on!
 
@@ -28,7 +28,7 @@ My name is wearr, I am a 18 year old web developer from the USA!
 
 [Touhou 6 Decompilation](https://github.com/happyhavoc/th06) Decompilation of Touhou 6 ~ Embodiment of Scarlet Devil
 
-[9Launcher](https://github.com/wearrrrr/9Launcher) General launcher for Touhou games. Written with QML and C++
+[9Launcher](https://github.com/wearrrrr/9Launcher/tree/qt) General launcher for Touhou games. Written with QML and C++
 
 <br><br>
 
