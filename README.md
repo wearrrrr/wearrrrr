@@ -6,9 +6,11 @@ Low level enthusiast and part time web developer
 
 ## I'm current working on..
 
+- [Nestastic](https://github.com/wearrrrr/nestastic) - A NES Emulator written in C++, with debug tools and pretty decent game support
 - [ResourceDragon](https://github.com/wearrrrr/ResourceDragon/) - Extensible and highly customizable tool for managing proprietary game archives, written in C++
 - [Touhou 6 Decompilation](https://github.com/happyhavoc/th06) - Decompilation of Touhou 6 ~ Embodiment of Scarlet Devil
 - [9Launcher](https://github.com/wearrrrr/9Launcher/tree/qt) - Beautiful launcher for all current Touhou games. Written with QML and C++
+
 
 ## Hobbies
 - Casual Reverse Engineering
